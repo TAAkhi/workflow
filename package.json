@@ -1,0 +1,27 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Workflow Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TAAkhi/workflow.git"
+  },
+  "keywords": [
+    "gulp",
+    "workflow"
+  ],
+  "author": "Taslima Akter <diva.diki@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TAAkhi/workflow/issues"
+  },
+  "homepage": "https://github.com/TAAkhi/workflow#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
