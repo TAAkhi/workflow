@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/TAAkhi/workflow#readme",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-util": "^3.0.8"
   }
 }
